@@ -170,3 +170,10 @@ private Node addWaiter(Node mode) {
 
 - java.util.concurrent.Semaphore.FairSync#tryAcquireShared（公平同步器实现）
 
+
+
+>
+>
+>1. https://www.cnblogs.com/daydaynobug/p/6752837.html  aqs
+>2. https://www.codenong.com/js3f8e9ea84f6a/  cmpxchg
+>3. https://www.cnblogs.com/yaphetsfang/p/13427234.html  cpp
